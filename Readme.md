@@ -54,3 +54,7 @@ For the **classification task**, **densenet** performed surprisingly well withou
 
 For the **localisation task**, we were forced to use the little labelled data available but the **xception** model particularly stood out among those tested. In the future, optimisations can be made to this model in order to hope for better performance.
 Finally, we found it interesting to **combine the 2** and simulate test conditions. The result is similar to what we could obtain with a detection task, with the difference that here we are making the most of the datasets available for each task and exploiting most of the models already discussed in class.
+
+![Untitled](Readme_Image/Untitled.png)
+
+![Untitled](Readme_Image/Untitled%201.png)
