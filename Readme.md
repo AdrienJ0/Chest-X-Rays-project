@@ -25,7 +25,7 @@ This dataset of 40GB+ has already been properly separated by avoiding the "data 
 
 The project has been divided in **03** **main steps**:
 
-### The multi-label classification → ([notebook link](https://github.com/AdrienJ0/Chest-X-Rays-project/blob/main/Chest_X-Rays_Classifier.ipynb))
+### The multi-label classification → ([notebook link](https://github.com/AdrienJ0/Chest-X-Rays-project/blob/main/Chest_X_Rays_Classifier.ipynb))
 
 - **Models used**: DenseNet ( as feature extractor ), DenseNet ( with fine tuning ) , Vision Transformer, RNN, RNN+CNN
 - **Loss used**: Binary crossentropy
